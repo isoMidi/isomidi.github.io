@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="http://stream.cvmtv.site:5000/epg.xml,http://trada.info/epg.xml"
+#EXTINF:-1 group-title="Kênh trong nước" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD
+#EXTVLCOPT:http-user-agent=CVmedia
+http://stream.cvmtv.site/vtv5?token=live
