@@ -1,1 +1,6 @@
-3
+id_Banner_H_OLD,1,20
+id_Banner_H_OLD,0,10
+id_Banner_H,1,12
+id_Banner_OD,1,30
+id_Banner_OD,0,15
+id_Banner_L,1,90
